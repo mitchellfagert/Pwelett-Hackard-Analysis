@@ -2,7 +2,7 @@
 ## Overview
 The purpose of this analysis was to act as a Human Resource Analyst to determine which employees of Pwelett Hackard are likely going to retire in the near future and get an approximation of how many positions would need to be filled. Doing this analysis provides the decision makers of the company important insight on the future of their workforce and can help them plan accordingly to ensure adequate staffing for the future.
 ## Resources
-* Original datasets:
+* Original data sets:
     * departments.csv
     * dept_emp.csv
     * dept_manager.csv
