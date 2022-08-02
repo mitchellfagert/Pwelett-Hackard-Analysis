@@ -48,4 +48,4 @@ I ran this query to get the count of mentor eligible employees for each departme
 
 <img width="112" alt="employees_leaving_by_dept_count" src="https://user-images.githubusercontent.com/107579508/182469515-dd127290-2b9c-46d8-ad65-0ef37991ca93.png">
 
-In conclusion, it all depends on how many employees retire and are willing to mentor. More mentors will be required for the Developement, Production, and Sales Departments than incomparison to the Human Resources, Finance, and Marketing Departments. Most of the focus should be surroudning the Departments that are more at risk of negative impact and conversation surrounding the Mentorship Program should commence quickly if executed.
+In conclusion, it all depends on how many employees retire and are willing to mentor. More mentors will be required for the Developement, Production, and Sales Departments than in comparison to the Human Resources, Finance, and Marketing Departments. Most of the focus should be surrounding the Departments that are more at risk of negative impact and conversation surrounding the Mentorship Program should commence quickly if executed.
