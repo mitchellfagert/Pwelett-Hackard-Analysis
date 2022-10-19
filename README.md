@@ -10,7 +10,7 @@ The purpose of this analysis was to act as a Human Resource Analyst to determine
     * salaries.csv
     * titles.csv
 * Software:
-    * PostgreSQl
+    * PostgreSQL
     * pgAdmin
     * SQL
 
