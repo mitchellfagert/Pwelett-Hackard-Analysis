@@ -89,7 +89,7 @@ ON ce.emp_no = de.emp_no
 GROUP BY de.dept_no
 ORDER BY de.dept_no;
 
--- Skill Drill; update the code block to create a new table, then export as CSV.
+-- Update the code block to create a new table, then export as CSV.
 SELECT COUNT(ce.emp_no), de.dept_no
 INTO dept_count
 FROM current_emp as ce
@@ -142,6 +142,3 @@ INNER JOIN dept_emp as de
 ON (ce.emp_no = de.emp_no)
 INNER JOIN departments as d
 ON (de.dept_no = d.dept_no);
-
---SKILL DRILL; create a query that will return only the information relevant to the Sales team
---SKILL DRILL; Create another query that will return the following information for the Sales and Development teams
