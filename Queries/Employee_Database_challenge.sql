@@ -39,7 +39,7 @@ ORDER BY count DESC;
 -- Checking retiring_titles table for accuracy
 SELECT * FROM retiring_titles;
 
--- Deliverable 2 - Creating the Mentorship Eligibility table
+-- Creating the Mentorship Eligibility table
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
 	e.first_name,
 	e.last_name,
